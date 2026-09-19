@@ -23,6 +23,11 @@ I’m a CSE student interested in **Artificial Intelligence, Machine Learning, D
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-trophy-nine.vercel.app/?username=Prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph"/>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Vikasraj-vrg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Vikasraj-vrg&theme=dark&hide_border=false)<br/>
