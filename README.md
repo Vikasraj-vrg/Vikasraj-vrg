@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Vikas Raj
 
-**A passionate Computer Science Engineering Student || AI/ML Enthusiast || Aspiring AI Engineer from India 🇮🇳**
+**🚀 CSE Student || AI/ML Enthusiast || Aspiring AI Engineer 🇮🇳**
 
-I’m a CSE student interested in **Artificial Intelligence, Machine Learning, Python, and building real-world AI projects.** 🚀
+I’m a CSE student interested in **Artificial Intelligence, Machine Learning, Deep learning, Python, and building real-world AI projects.** 🚀
 
 * 🔭 **I’m currently working on:** AI Hallucination Risk Predictor 🤖
 * 🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, Deep Learning, Python & Data Science
@@ -12,7 +12,6 @@ I’m a CSE student interested in **Artificial Intelligence, Machine Learning, P
 * 📫 **How to reach me:** [vg36272@gmail.c0m] 📧
 * 😄 **Pronouns:** Vikas
 * ⚡ **Fun fact:** I love learning new technology and turning ideas into projects! 🚀
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-raj-a0393428b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v_raj_018)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vg36272@gmail.com) 
 
