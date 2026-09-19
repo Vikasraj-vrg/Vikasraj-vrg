@@ -33,3 +33,38 @@ I’m a CSE student interested in **Artificial Intelligence, Machine Learning, D
 ![](https://streak-stats.demolab.com/?user=Vikasraj-vrg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vikasraj-vrg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,43,79,89&height=120&section=header&text=STREAK%20SYMPHONY&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabal864&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=e84393&border_radius=20" />
+  </a>
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabal864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e84393&icon_color=e84393&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=20" />
+  </a>
+</div>
+
+<br>
+
+
+<!-- STREAK + PROFILE DETAILS -->
+<div align="center">
+  <a href="">
+    <img width="49%" height="200px" src="https://streak-stats.demolab.com/?user=Prabal864&theme=radical&hide_border=true&background=0D1117&ring=e84393&fire=e84393&currStreakLabel=e84393&border_radius=20" />
+  </a>
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabal864&theme=radical&border_radius=20" />
+  </a>
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,12,2&height=120&section=header&text=OPEN%20SOURCE&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
+
+<div align="center">
+
